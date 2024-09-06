@@ -13,7 +13,7 @@ An advanced search engine that uses an inverted index for efficient document sea
 1. Clone the repository:
    ```sh
    git clone https://github.com/SarafoglouAth/BreadcrumbsAdvanced-Search-Engine-with-Inverted-Index.git
-2. Clone the repository:
+2. Navigate to the directory:
    ```sh
    cd advanced-search-engine
 
